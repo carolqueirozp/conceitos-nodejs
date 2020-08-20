@@ -2,4 +2,4 @@
 
 <h3><p align='center'>Desafio: Conceitos do Node.js</p></h3>
 
-Desafio sobre Conceitos do Node.js aplicado no Bootcamp GoStack 13 da Rocketseat
+<blockquote align="center">Desafio sobre Conceitos do Node.js aplicado no Bootcamp GoStack 13 da Rocketseat.</blockquote>
